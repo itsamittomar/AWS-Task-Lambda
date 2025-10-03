@@ -1,5 +1,7 @@
 # AWS Task Management API - Serverless REST API
 
+# Prod url -  https://rfhkb8s025.execute-api.us-east-1.amazonaws.com/prod/   
+
 A production-ready serverless REST API built with **Go**, **AWS Lambda**, **API Gateway**, and **DynamoDB** for learning AWS serverless architecture.
 
 ## 🏗️ Architecture
